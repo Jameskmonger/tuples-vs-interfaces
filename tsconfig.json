@@ -15,9 +15,7 @@
         "preserveConstEnums": true,
         "suppressImplicitAnyIndexErrors": true
     },
-    "files": [
-        "index.ts"
-    ],
+    "files": [ "index.ts" ],
     "compileOnSave": true,
     "buildOnSave": false,
     "atom": {
