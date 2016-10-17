@@ -1,0 +1,16 @@
+{
+  "name": "tuples-vs-classes",
+  "version": "1.0.0",
+  "description": "Example for \"Tuples vs Classes\"",
+  "main": "index.js",
+  "scripts": { },
+  "keywords": [
+    "tuple",
+    "class",
+    "tutorial",
+    "investigation",
+    "benchmark"
+  ],
+  "author": "James Monger",
+  "license": "MIT"
+}
