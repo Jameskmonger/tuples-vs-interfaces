@@ -1,5 +1,8 @@
 # ignore node_modules
 node_modules
 
+# ignore npm logs
+npm-debug.log*
+
 # ignore .js (this is typescript!)
 *.js

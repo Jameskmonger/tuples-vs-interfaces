@@ -1,16 +1,20 @@
 {
-  "name": "tuples-vs-classes",
+  "name": "tuples-vs-interfaces",
   "version": "1.0.0",
-  "description": "Example for \"Tuples vs Classes\"",
+  "description": "Example for \"Tuples vs Interfaces\"",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {},
   "keywords": [
     "tuple",
-    "class",
+    "interface",
     "tutorial",
     "investigation",
     "benchmark"
   ],
   "author": "James Monger",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/benchmark": "^1.0.30",
+    "benchmark": "^2.1.1"
+  }
 }
